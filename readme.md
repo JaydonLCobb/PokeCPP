@@ -1,5 +1,6 @@
-[![Pokecpp](http://img.youtube.com/vi/uRbXCi97udc/0.jpg)](http://www.youtube.com/watch?v=uRbXCi97udc "PokeCPP")
+[![Pokecpp](http://img.youtube.com/vi/uRbXCi97udc/0.jpg)](http://www.youtube.com/watch?v=uRbXCi97udc "PokeCPP") <- video demonstration
 
+PokeCPP is a text-based remake of the popular game, Pokemon.
 
 INSTALLATION: Download and unpack tar.gz file to chosen directory, CD into directory, run "make", run ./poke327
 
